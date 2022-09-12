@@ -45,3 +45,4 @@ function checkWinner(){
       return (player == "ROCK") ? "You Win!" : "You Lose!"
     }
 }
+
